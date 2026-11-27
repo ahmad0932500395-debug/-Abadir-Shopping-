@@ -1,0 +1,10 @@
+# The repository currently contains no application source code or package.json,
+# so there is no framework, package manager or build step to run.
+# It is configured as a plain static site: files at the repository root
+# (e.g. index.html, CSS, JS, images) are published as-is.
+#
+# If a framework project (e.g. Vite/React) is added later, update `command`
+# and `publish` accordingly (e.g. command = "npm run build", publish = "dist").
+[build]
+  command = ""
+  publish = "."
